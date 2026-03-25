@@ -1,0 +1,118 @@
+body {
+    background: linear-gradient(teal,pink);
+    background-color: skyblue;
+    color: #ffffff;
+    font-family: "Cinzel", serif;
+    text-align: center;
+    font-size: 100px;
+}
+h1{
+    text-shadow: 30px 30px 30px black;
+}
+#age{
+    margin-bottom: 20px;
+    margin-top: 2px;
+    text-shadow: 5px 5px 5px black;
+}
+#date{
+    margin: 0px;
+    text-shadow: 5px 5px 5px black;
+}
+#bff {
+    width: 350px;
+    border-radius: 200px;
+    border-color:blue;
+    /* only color */
+    border-style: solid;
+    /* needed so border shows */
+    border-width: 10px;
+}
+#header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#h{
+    text-shadow: 6px 6px 6px black;
+    margin-bottom:30px;
+}
+#g{
+    text-shadow: 6px 6px 6px black;
+    margin-top: 20px;
+}
+#gift{
+    margin: 0px 1700px;
+    height: 1000px;
+    width: 1200px;
+    border: 20px solid white;
+    border-radius: 50px;
+    background-size: cover;
+    background-image: url("images/7d9b0ec1-14cc-46b2-bc7f-4de4e8489464-cover.png");
+}
+#gift:hover{
+    background-image: url("images/happy.gif");
+}
+#r{
+    text-shadow: 6px 6px 6px black;
+    margin-bottom: 20px;
+}
+#second{
+    margin: 0px 1700px;
+    height: 1000px;
+    width: 1200px;
+    border: 20px solid white;
+    border-radius: 50px;
+    background-size: cover;
+    background-image: url("images/7d9b0ec1-14cc-46b2-bc7f-4de4e8489464-cover.png");
+}
+#second:hover{
+    background-image: url("images/enter\ room.gif");
+}
+/* #op{
+    margin-top: 50px;
+    text-shadow: 6px 6px 6px black;
+}
+    */
+
+ #genius{
+    text-shadow: 6px 6px 6px black;
+    margin-bottom: 20px;
+ } 
+#third{
+    margin: 0px 1700px;
+    height:1000px;
+    width: 1200px;
+    border: 20px solid white;
+    border-radius: 50px;
+    background-size: cover;
+    background-image: url("images/7d9b0ec1-14cc-46b2-bc7f-4de4e8489464-cover.png");
+}
+ #third:hover{
+    background-image: url("images/gre.gif");
+} 
+ 
+
+#last{
+    text-shadow: 6px 6px 6px black;
+    margin: 20px;
+}
+ #lasst{
+    margin: 0px 1600px;
+    height:1000px;
+    width: 2000px;
+    border: 20px solid white;
+    border-radius: 50px;
+    background-size: cover;
+    background-image: url("images/7d9b0ec1-14cc-46b2-bc7f-4de4e8489464-cover.png");  
+ }  
+ #lasst:hover{
+    /* background: linear-gradient(aqua,white); */
+    background-image: url("images/cheers.gif");  
+ } 
+
+#four{
+    font-style: italic;
+    margin: 20px;
+    margin-bottom: 90px auto 20px;
+    text-shadow: 9px 9px 9px black;
+}
